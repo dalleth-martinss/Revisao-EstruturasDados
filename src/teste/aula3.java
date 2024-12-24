@@ -7,8 +7,14 @@ public class aula3 {
 
         Vetor vetor = new Vetor(5);
 
-        vetor.adiciona("elemento1");
+        vetor.adiciona("Maça");
+        vetor.adiciona("Uva");
+        vetor.adiciona("Pêra");
+        vetor.adiciona("Goiaba");
+        vetor.adiciona("Banana");
+        vetor.adiciona("Banana2");
 
+        System.out.println(vetor);
 
     }
 }
